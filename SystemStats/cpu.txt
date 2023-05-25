@@ -1,0 +1,2 @@
+Number of processor : 8
+Model : Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz
