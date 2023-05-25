@@ -2,7 +2,7 @@
 In comparison to other operating systems generally, Ubuntu is not very user pleasant. In order to increase productivity, keeping users informed, and helping them understand their system, we intend to offer additional functionalities.
 
 ## Objective and Features
-The lack of GUI in Ubuntu, and update notifications are quite obvious. Hence we are planning to implement the following:
+The lack of GUI in Ubuntu, and update notifications are quite obvious. Hence we are planning to implement the following: \\
 ● System stats - (CPU and memory information, RAM usage information) ● New Unread Mail Notifier
 ● Automatic Meet Join
 The detailed explanation of the features and their implementation methodologies are listed below.
